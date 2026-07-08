@@ -44,7 +44,7 @@ Canonical marker genes separate broad lung cell populations, including epithelia
 
 The BPD-focused UMAP uses hosted scVI embeddings and shows how sampled infant/toddler disease-associated cells distribute by developmental stage.
 
-![BPD UMAP by developmental stage](figures/bpd_umap_by_development_stage.png)
+![BPD UMAP by developmental stage](figures/bronchopulmonary-dysplasia-cells-by-dev-stages.png)
 
 ### BPD UMAP by Top Cell Types
 
