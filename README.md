@@ -32,7 +32,7 @@ Data are queried directly from CELLxGENE Census with the `cellxgene-census` Pyth
 
 This plot shows where BPD-labeled lung cells are represented across early developmental stages. Stages with sufficient cells are carried forward into the focused UMAP workflow.
 
-![BPD cell counts by developmental stage](figures/bpd_cell_counts_by_development_stage.png)
+![BPD cell counts by developmental stage](figures/BPD lung cell by development stages.png)
 
 ### Initial Human Lung Marker Dot Plot
 
