@@ -32,13 +32,13 @@ Data are queried directly from CELLxGENE Census with the `cellxgene-census` Pyth
 
 This plot shows where BPD-labeled lung cells are represented across early developmental stages. Stages with sufficient cells are carried forward into the focused UMAP workflow.
 
-![BPD cell counts by developmental stage](figures/BPD lung cell by development stages.png)
+![BPD cell counts by developmental stage](figures/BPD-lung-cell-by-development-stages.png)
 
 ### Initial Human Lung Marker Dot Plot
 
 Canonical marker genes separate broad lung cell populations, including epithelial, endothelial, immune, myeloid, and fibroblast-associated groups.
 
-![Human lung marker dot plot](figures/human_lung_marker_dotplot.png)
+![Human lung marker dot plot](figures/umap-for-lung-cell-and-variable-diseases.png)
 
 ### BPD UMAP by Developmental Stage
 
@@ -50,16 +50,16 @@ The BPD-focused UMAP uses hosted scVI embeddings and shows how sampled infant/to
 
 The same embedding colored by the top 10 cell types highlights major cell populations in the focused BPD subset.
 
-![BPD UMAP by top 10 cell types](figures/bpd_umap_by_top10_cell_types.png)
+![BPD UMAP by top 10 cell types](figures/bronchopulmonary-dysplasia-cells-by-top-10-cells.png)
 
 ### BPD UMAP by Sex
 
 This view checks whether sex metadata creates obvious structure in the BPD-focused embedding.
 
-![BPD UMAP by sex](figures/bpd_umap_by_sex.png)
+![BPD UMAP by sex](figures/bronchopulmonary-dysplasia-cells-by-gender.png)
 
 ### BPD Marker Dot Plot by Developmental Stage
 
 The final dot plot compares marker-gene expression patterns across the selected BPD developmental stages.
 
-![BPD marker dot plot by developmental stage](figures/bpd_marker_dotplot_by_development_stage.png)
+![BPD marker dot plot by developmental stage](figures/dotplot-for-bpd-lung-disease-with-variables.png)
